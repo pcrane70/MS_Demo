@@ -1,0 +1,3 @@
+﻿c:\Whitesource\FSA\ksa>java -jar whitesource-fs-agent-SNAPSHOT.jar -appPath C:\w
+hitesource\fsa\ksa\ksa-web-core\target\ksa-web-core-3.9.0.jar -d C:\whitesource\
+fsa\ksa\ksa-web-core

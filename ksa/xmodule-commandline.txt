@@ -1,0 +1,1 @@
+java -jar xModuleAnalyzer-18.10.3.jar -xModulePath ksaModules -fsaJarPath "C:\WhitesourcePlugins\plugins\File System Agent" -c "C:\WhitesourcePlugins\plugins\File System Agent\whitesource-fs-agent.CONFIG" statusDisplay dynamic
