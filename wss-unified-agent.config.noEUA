@@ -121,7 +121,8 @@ maven.runPreStep=true
 ##################################
 # Organization tokens:
 ##################################
-apiKey=4654e33bf0ce4e958df7dd87903cdda9a7de9181ad0549c08387835b51a8df54
+apiKey=
+
 
 
 #userKey is required if WhiteSource administrator has enabled "Enforce user level access" option
